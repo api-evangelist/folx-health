@@ -1,0 +1,14 @@
+{
+  "repo": "folx-health",
+  "feeds": [
+    {
+      "source": "https://folxhealth.com/",
+      "feed_url": "https://folxhealth.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
